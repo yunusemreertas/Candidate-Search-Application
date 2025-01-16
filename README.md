@@ -4,7 +4,7 @@
 
 ## Deployed App
 
-(Deployment link will be added after deployment)
+https://candidate-search-application-yfsd.onrender.com/
 
 ## Description
 
@@ -30,7 +30,7 @@ The Candidate Search Application is a React-based front-end project that allows 
 2. Navigate to the project folder:
 
    ```bash
-   cd Candidate-Search-Application
+   cd Candidate-Search
    ```
 
 3. Install the project dependencies:
