@@ -30,7 +30,7 @@ The Candidate Search Application is a React-based front-end project that allows 
 2. Navigate to the project folder:
 
    ```bash
-   cd Candidate-Search
+   cd Candidate-Search-Application
    ```
 
 3. Install the project dependencies:
